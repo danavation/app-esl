@@ -1,0 +1,1 @@
+./gradlew bundleRelease && ./gradlew assembleRelease
